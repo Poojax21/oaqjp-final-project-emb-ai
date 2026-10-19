@@ -1,0 +1,11 @@
+﻿python.exe : .
+At line:3 char:1
++ & $py test_emotion_detection.py 2>&1 | Out-File -LiteralPath "$dir\su ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+----------------------------------------------------------------------
+Ran 1 test in 30.136s
+
+OK

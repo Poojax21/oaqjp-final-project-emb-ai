@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+server.log
+server.err
+server.pid
+take_screenshots.py
